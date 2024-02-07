@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\bin\Debug\net6.0\Csharp-Start.exe
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\bin\Debug\net6.0\Csharp-Start.deps.json
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\bin\Debug\net6.0\Csharp-Start.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\bin\Debug\net6.0\Csharp-Start.dll
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\bin\Debug\net6.0\Csharp-Start.pdb
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\Csharp-Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\Csharp-Start.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\Csharp-Start.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\Csharp-Start.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\Csharp-Start.dll
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\refint\Csharp-Start.dll
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\Csharp-Start.pdb
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\Csharp-Start.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Csharp-Start\Csharp-Start\obj\Debug\net6.0\ref\Csharp-Start.dll
